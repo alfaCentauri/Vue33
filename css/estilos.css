@@ -1,0 +1,11 @@
+body{
+    font-family: Helvetic, Arial;
+    font-size: 14px;
+    font-style: normal;
+    color: #000;
+}
+
+.warning{
+    color: goldenrod;
+}
+
